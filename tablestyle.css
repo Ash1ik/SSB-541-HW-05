@@ -1,0 +1,45 @@
+table,th,td{
+    border: 1px solid black;
+    text-align: center;
+    width: 50%;
+    align-tracks: center;
+    margin: auto;
+    opacity: .8;
+    border-collapse: collapse;
+}
+td{
+    background-color: rgb(172, 241, 241);
+}
+
+.planet{
+    background-color: rgb(95, 216, 176);
+}
+
+.th{
+    background-color: #66d819;
+}
+
+.th th:first-child{
+    background-color: #024722;
+}
+
+.pl{
+    background-color: #bd8c07;
+}
+
+body{
+    background-image: url(Image/owm4oa3hXUG58mka7hPvfP.jpg);
+}
+
+caption{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: rgb(104, 180, 231);
+}
+
+td a{
+    color: rgb(5, 84, 202);
+}

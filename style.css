@@ -1,0 +1,58 @@
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td,th{
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+td:hover{
+    background-color: #9e9595;
+}
+
+.fox{
+    width: 30%;  
+    border: 1px solid skyblue;   
+}
+
+.universe{
+    width: 400px;
+    height: 60px;
+    font-size: 50px;
+    margin: auto;
+}
+
+.mark{
+    margin: auto;
+    width: 600px;
+    height:60px;
+    font-size: 40px;
+}
+
+.hello{
+    border:2px solid Tomato;
+}
+
+img{
+    margin: auto;
+    
+}
+
+.button{
+    background-image: url(Image/owm4oa3hXUG58mka7hPvfP.jpg);
+    color: aliceblue;
+    width: 200px;
+    height: 100px;
+}
+
+.text{
+    font-size: medium;
+    font-family: sans-serif;
+
+}
+
+ 
